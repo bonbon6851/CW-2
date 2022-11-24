@@ -1,0 +1,1 @@
+WORDS_TO_PLAY_URL = "https://api.npoint.io/d0a41141a74eb14129e2"
